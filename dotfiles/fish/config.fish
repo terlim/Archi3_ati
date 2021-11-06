@@ -1,0 +1,7 @@
+set -g -x fish_greeting ''
+alias ls='lsd'
+alias cat='bat'
+alias mc='mc -u'
+alias vim='nvim'
+alias update='sudo pacman -Syuu'
+alias del='sudo pacman -Rscn'

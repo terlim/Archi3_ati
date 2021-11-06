@@ -1,0 +1,59 @@
+{
+    "css.lint.duplicateProperties": "warning",
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 300000,
+    "python.formatting.provider": "yapf",
+	"python.linting.enabled": true,
+	"python.linting.pycodestyleEnabled": true,
+	"python.linting.pylintEnabled": false,
+    "editor.detectIndentation": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.list.smoothScrolling": true,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.renderControlCharacters": true,
+	"editor.renderWhitespace": "boundary",
+	"explorer.confirmDelete": false,
+	"security.workspace.trust.enabled": false,
+	"editor.suggest.insertMode": "replace",
+	"editor.linkedEditing": true,
+	"terminal.integrated.fontSize": 15,
+	"editor.fontSize": 16,
+	"editor.rulers": [80],
+    "workbench.colorTheme": "Atom One Dark",
+	"debug.allowBreakpointsEverywhere": true,
+	"debug.showBreakpointsInOverviewRuler": true,
+    "pythonIndent.useTabOnHangingIndent": true,
+    "files.insertFinalNewline": true,
+    "vim.easymotion": true,
+    "vim.highlightedyank.enable": true,
+    "vim.leader": "<space>", 
+    "vim.hlsearch": true, 
+    "vim.useCtrlKeys": true,
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["k","j"],
+            "after": ["<Esc>"]
+        },
+        {
+            "before": ["j","k"],
+            "after": ["<Esc>"]
+        },
+    ],
+    "vim.normalModeKeyBindingNonRecursive": [
+        {
+            "before": ["<leader>","<leader>"],
+            "after": [":nohlsearch"]
+        }
+    ],
+    "vim.statusBarColorControl": true,
+    "vim.surround": false,
+    "vim.useSystemClipboard": true,
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#5f0000",
+        "statusBar.noFolderBackground": "#5f0000",
+        "statusBar.debuggingBackground": "#5f0000"
+    },
+    "editor.hover.enabled": false
+}

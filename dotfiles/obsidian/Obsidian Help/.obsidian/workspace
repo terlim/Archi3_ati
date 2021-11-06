@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "8e03fa3c64c14604",
+    "type": "split",
+    "children": [
+      {
+        "id": "6186faad6b06a4f5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Продвинутое использование/Заголовок YAML.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9069a0bd67b9260",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dfc43b7a8d05937",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0b7d3501c8c693c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d083ac65df057338",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "yaml",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a02d1f0531258bb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bbf1a91bdc43e8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d842dbcee703cb5f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Продвинутое использование/Заголовок YAML.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6186faad6b06a4f5",
+  "lastOpenFiles": [
+    "Продвинутое использование/Заголовок YAML.md",
+    "Начните здесь.md"
+  ]
+}

@@ -1,0 +1,6 @@
+2021/09/28-14:44:57.983 6011 Reusing MANIFEST /home/terlim/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/28-14:44:57.983 6011 Recovering log #3
+2021/09/28-14:44:58.038 6011 Reusing old log /home/terlim/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000003.log 
+2021/09/28-17:28:23.177 1b53f Level-0 table #5: started
+2021/09/28-17:28:23.224 1b53f Level-0 table #5: 1351469 bytes OK
+2021/09/28-17:28:23.236 1b53f Delete type=0 #3

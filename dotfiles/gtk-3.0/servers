@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="sftp://192.168.1.229/" added="2021-04-11T11:55:27.274897Z" modified="2021-04-11T11:55:27.274903Z" visited="2021-04-11T11:55:27.274898Z">
+    <title>/ на 192.168.1.229</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-04-11T11:55:27.274900Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="sftp://192.168.1.229/share" added="2021-04-11T12:22:42.813801Z" modified="2021-04-11T12:22:42.813806Z" visited="2021-04-11T12:22:42.813802Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-04-11T12:22:42.813804Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="smb://192.168.1.229/" added="2021-04-11T12:33:00.686309Z" modified="2021-11-06T08:40:30.933540Z" visited="2021-11-06T08:40:30.933538Z">
+    <title>Ресурсы Windows на 192.168.1.229</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-11-06T08:40:30.933539Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="smb://192.168.1.229/backupwork/" added="2021-04-11T16:43:44.038315Z" modified="2021-04-27T18:03:17.524788Z" visited="2021-04-27T18:03:17.524784Z">
+    <title>backupwork на 192.168.1.229</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-04-27T18:03:17.524786Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
